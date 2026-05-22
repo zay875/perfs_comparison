@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/ztaieb/Bureau/perfs_comparison/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/extract_perf_logs.dir/extract_perf_logs.cpp.o -c /home/ztaieb/Bureau/perfs_comparison/extract_perf_logs.cpp",
+  "file": "/home/ztaieb/Bureau/perfs_comparison/extract_perf_logs.cpp",
+  "output": "CMakeFiles/extract_perf_logs.dir/extract_perf_logs.cpp.o"
+},
+{
+  "directory": "/home/ztaieb/Bureau/perfs_comparison/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/extract_phases.dir/extract_phases.cpp.o -c /home/ztaieb/Bureau/perfs_comparison/extract_phases.cpp",
+  "file": "/home/ztaieb/Bureau/perfs_comparison/extract_phases.cpp",
+  "output": "CMakeFiles/extract_phases.dir/extract_phases.cpp.o"
+},
+{
+  "directory": "/home/ztaieb/Bureau/perfs_comparison/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/merged_full_global_stats_all_datsets.dir/merged_full_global_stats_all_datsets.cpp.o -c /home/ztaieb/Bureau/perfs_comparison/merged_full_global_stats_all_datsets.cpp",
+  "file": "/home/ztaieb/Bureau/perfs_comparison/merged_full_global_stats_all_datsets.cpp",
+  "output": "CMakeFiles/merged_full_global_stats_all_datsets.dir/merged_full_global_stats_all_datsets.cpp.o"
+},
+{
+  "directory": "/home/ztaieb/Bureau/perfs_comparison/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/merged_global_stats_for_a_dataset.dir/merged_global_stats_for_a_dataset.cpp.o -c /home/ztaieb/Bureau/perfs_comparison/merged_global_stats_for_a_dataset.cpp",
+  "file": "/home/ztaieb/Bureau/perfs_comparison/merged_global_stats_for_a_dataset.cpp",
+  "output": "CMakeFiles/merged_global_stats_for_a_dataset.dir/merged_global_stats_for_a_dataset.cpp.o"
+},
+{
+  "directory": "/home/ztaieb/Bureau/perfs_comparison/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/merged_mean_agg_res_stats_for_a_dataset.dir/merged_mean_agg_res_stats_for_a_dataset.cpp.o -c /home/ztaieb/Bureau/perfs_comparison/merged_mean_agg_res_stats_for_a_dataset.cpp",
+  "file": "/home/ztaieb/Bureau/perfs_comparison/merged_mean_agg_res_stats_for_a_dataset.cpp",
+  "output": "CMakeFiles/merged_mean_agg_res_stats_for_a_dataset.dir/merged_mean_agg_res_stats_for_a_dataset.cpp.o"
+},
+{
+  "directory": "/home/ztaieb/Bureau/perfs_comparison/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/merged_mean_agg_res_stats_all_datasets.dir/merged_mean_agg_res_stats_all_datasets.cpp.o -c /home/ztaieb/Bureau/perfs_comparison/merged_mean_agg_res_stats_all_datasets.cpp",
+  "file": "/home/ztaieb/Bureau/perfs_comparison/merged_mean_agg_res_stats_all_datasets.cpp",
+  "output": "CMakeFiles/merged_mean_agg_res_stats_all_datasets.dir/merged_mean_agg_res_stats_all_datasets.cpp.o"
+}
+]

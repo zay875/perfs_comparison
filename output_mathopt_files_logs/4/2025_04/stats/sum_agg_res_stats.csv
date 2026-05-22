@@ -1,0 +1,209 @@
+Sum agg res stats
+
+Work Time Stat.0  ; Total work time                         ; 2627:0:0
+Work Time Stat.1  ; Effective weighted work time planned    ; 2627:0:0
+Work Time Stat.2  ; Initial available time                  ; 4086:36:0
+Work Time Stat.3  ; Remaining available time                ; 584:36:0
+Work Time Stat.4  ; Supp time planned                       ; 0:0:0
+Work Time Stat.5  ; Supp time allowed                       ; 0:0:0
+Work Time Stat.6  ; Contract time                           ; 4086:36:0
+Work Time Stat.7  ; Assimilated work time                   ; 0:0:0
+Work Time Stat.8  ; Planned leave time                      ; 0:0:0
+Work Time Stat.9  ; Unplanned leave time                    ; 0:0:0
+Work Time Stat.10 ; Leave time                              ; 875:0:0
+Work Time Stat.11 ; Effective work time planned             ; 2627:0:0
+Work Time Stat.12 ; Start cumulated supp time              ; 0:0:0
+Work Time Stat.13 ; End cumulated supp time                ; -584:-36:0
+
+Pref Weekend.0 ; In weekend count                           ; 21.00
+Pref Weekend.1 ; Off weekend count                          ; 64.00
+Pref Weekend.2 ; Cut weekend count                          ; 22.00
+Pref Weekend.3 ; Worked weekend count                       ; 43.00
+Pref Weekend.4 ; Worked Sunday count                        ; 32.00
+Pref Weekend.5 ; Off Sunday count                           ; 80.00
+Pref Weekend.6 ; Weekend off around planned leave           ; 100%
+Pref Weekend.7 ; Total weekend around planned leave count   ; 20.00
+Pref Weekend.8 ; Off weekend around planned leave count     ; 20.00
+
+Work Period Stat.1.1 ; Work periods number                  ; 101.00
+Work Period Stat.1.2 ; Work period min length               ; 0.00
+Work Period Stat.1.3 ; Work period max length               ; 4.00
+Work Period Stat.1.4 ; Work period mean length              ; 2.39
+Work Period Stat.2.1 ; Day work periods number              ; 74.00
+Work Period Stat.2.2 ; Day work period min length           ; 0.00
+Work Period Stat.2.3 ; Day work period max length           ; 4.00
+Work Period Stat.2.4 ; Day work period mean length          ; 2.43
+Work Period Stat.3.1 ; Night work periods number            ; 27.00
+Work Period Stat.3.2 ; Night work period min length         ; 0.00
+Work Period Stat.3.3 ; Night work period max length         ; 3.00
+Work Period Stat.3.4 ; Night work period mean length        ; 2.26
+Work Period Stat.4.1 ; Night activity number                ; 61.00
+Work Period Stat.4.2 ; Day activity number                  ; 180.00
+Work Period Stat.4.3 ; Total activity number                ; 241.00
+Work Period Stat.4.4 ; Isolated activity number             ; 0.00
+
+Rest Period Stat.0 ; Periods number                         ; 121.00
+Rest Period Stat.1 ; Min length                             ; 0.00
+Rest Period Stat.2 ; Max length                             ; 21.00
+Rest Period Stat.3 ; Mean length                            ; 3.73
+Rest Period Stat.4 ; Rest number                            ; 451.00
+Rest Period Stat.5 ; Isolated rest period nb                ; 9.00
+
+Activity Stat.0  ; Activity preference score                ; 0.00
+Activity Stat.1  ; Effective work activity number           ; 231.00
+Activity Stat.2  ; Assimilated work activity number         ; 0.00
+Activity Stat.3  ; Different activity number                ; 31.00
+Activity Stat.4  ; Planned leave number                     ; 63.00
+Activity Stat.5  ; Unplanned leave number                   ; 95.00
+Activity Stat.6  ; Leave number                             ; 158.00
+Activity Stat.7  ; Activity change number                   ; 2.00
+Activity Stat.8  ; Activity 'CA' occurrence nb              ; 63.00
+Activity Stat.8  ; Activity 'CLD' occurrence nb              ; 95.00
+Activity Stat.8  ; Activity 'FAM' occurrence nb              ; 29.00
+Activity Stat.8  ; Activity 'RH' occurrence nb              ; 451.00
+Activity Stat.8  ; Activity 'ZA' occurrence nb              ; 142.00
+Activity Stat.8  ; Activity 'ZB' occurrence nb              ; 60.00
+
+Office Stat.0 ; Different office nb                                   ; 31.00
+Office Stat.1 ; Office 'accueil' occurrence nb        ; 29.00
+Office Stat.1 ; Office 'soins' occurrence nb        ; 202.00
+Office Stat.3 ; Office change number                                  ; 2.00
+
+Sum agg day res stats
+
+Work Time Stat.0  ; Total work time                         ; 1907:0:0
+Work Time Stat.1  ; Effective weighted work time planned    ; 1907:0:0
+Work Time Stat.2  ; Initial available time                  ; 2616:36:0
+Work Time Stat.3  ; Remaining available time                ; 65:36:0
+Work Time Stat.4  ; Supp time planned                       ; 0:0:0
+Work Time Stat.5  ; Supp time allowed                       ; 0:0:0
+Work Time Stat.6  ; Contract time                           ; 2616:36:0
+Work Time Stat.7  ; Assimilated work time                   ; 0:0:0
+Work Time Stat.8  ; Planned leave time                      ; 0:0:0
+Work Time Stat.9  ; Unplanned leave time                    ; 0:0:0
+Work Time Stat.10 ; Leave time                              ; 644:0:0
+Work Time Stat.11 ; Effective work time planned             ; 1907:0:0
+Work Time Stat.12 ; Start cumulated supp time              ; 0:0:0
+Work Time Stat.13 ; End cumulated supp time                ; -65:-36:0
+
+Pref Weekend.0 ; In weekend count                           ; 15.00
+Pref Weekend.1 ; Off weekend count                          ; 39.00
+Pref Weekend.2 ; Cut weekend count                          ; 18.00
+Pref Weekend.3 ; Worked weekend count                       ; 33.00
+Pref Weekend.4 ; Worked Sunday count                        ; 24.00
+Pref Weekend.5 ; Off Sunday count                           ; 48.00
+Pref Weekend.6 ; Weekend off around planned leave           ; 100%
+Pref Weekend.7 ; Total weekend around planned leave count   ; 18.00
+Pref Weekend.8 ; Off weekend around planned leave count     ; 18.00
+
+Work Period Stat.1.1 ; Work periods number                  ; 74.00
+Work Period Stat.1.2 ; Work period min length               ; 0.00
+Work Period Stat.1.3 ; Work period max length               ; 4.00
+Work Period Stat.1.4 ; Work period mean length              ; 2.43
+Work Period Stat.2.1 ; Day work periods number              ; 74.00
+Work Period Stat.2.2 ; Day work period min length           ; 0.00
+Work Period Stat.2.3 ; Day work period max length           ; 4.00
+Work Period Stat.2.4 ; Day work period mean length          ; 2.43
+Work Period Stat.3.1 ; Night work periods number            ; 0.00
+Work Period Stat.3.2 ; Night work period min length         ; 0.00
+Work Period Stat.3.3 ; Night work period max length         ; 0.00
+Work Period Stat.3.4 ; Night work period mean length        ; 0.00
+Work Period Stat.4.1 ; Night activity number                ; 0.00
+Work Period Stat.4.2 ; Day activity number                  ; 180.00
+Work Period Stat.4.3 ; Total activity number                ; 180.00
+Work Period Stat.4.4 ; Isolated activity number             ; 0.00
+
+Rest Period Stat.0 ; Periods number                         ; 88.00
+Rest Period Stat.1 ; Min length                             ; 0.00
+Rest Period Stat.2 ; Max length                             ; 8.00
+Rest Period Stat.3 ; Mean length                            ; 2.89
+Rest Period Stat.4 ; Rest number                            ; 254.00
+Rest Period Stat.5 ; Isolated rest period nb                ; 8.00
+
+Activity Stat.0  ; Activity preference score                ; 0.00
+Activity Stat.1  ; Effective work activity number           ; 171.00
+Activity Stat.2  ; Assimilated work activity number         ; 0.00
+Activity Stat.3  ; Different activity number                ; 22.00
+Activity Stat.4  ; Planned leave number                     ; 50.00
+Activity Stat.5  ; Unplanned leave number                   ; 65.00
+Activity Stat.6  ; Leave number                             ; 115.00
+Activity Stat.7  ; Activity change number                   ; 2.00
+Activity Stat.8  ; Activity 'CA' occurrence nb              ; 50.00
+Activity Stat.8  ; Activity 'CLD' occurrence nb              ; 65.00
+Activity Stat.8  ; Activity 'FAM' occurrence nb              ; 29.00
+Activity Stat.8  ; Activity 'RH' occurrence nb              ; 254.00
+Activity Stat.8  ; Activity 'ZA' occurrence nb              ; 142.00
+
+Office Stat.0 ; Different office nb                                   ; 22.00
+Office Stat.1 ; Office 'accueil' occurrence nb        ; 29.00
+Office Stat.1 ; Office 'soins' occurrence nb        ; 142.00
+Office Stat.3 ; Office change number                                  ; 2.00
+
+Sum agg night res stats
+
+Work Time Stat.0  ; Total work time                         ; 720:0:0
+Work Time Stat.1  ; Effective weighted work time planned    ; 720:0:0
+Work Time Stat.2  ; Initial available time                  ; 1470:0:0
+Work Time Stat.3  ; Remaining available time                ; 519:0:0
+Work Time Stat.4  ; Supp time planned                       ; 0:0:0
+Work Time Stat.5  ; Supp time allowed                       ; 0:0:0
+Work Time Stat.6  ; Contract time                           ; 1470:0:0
+Work Time Stat.7  ; Assimilated work time                   ; 0:0:0
+Work Time Stat.8  ; Planned leave time                      ; 0:0:0
+Work Time Stat.9  ; Unplanned leave time                    ; 0:0:0
+Work Time Stat.10 ; Leave time                              ; 231:0:0
+Work Time Stat.11 ; Effective work time planned             ; 720:0:0
+Work Time Stat.12 ; Start cumulated supp time              ; 0:0:0
+Work Time Stat.13 ; End cumulated supp time                ; -519:0:0
+
+Pref Weekend.0 ; In weekend count                           ; 6.00
+Pref Weekend.1 ; Off weekend count                          ; 25.00
+Pref Weekend.2 ; Cut weekend count                          ; 4.00
+Pref Weekend.3 ; Worked weekend count                       ; 10.00
+Pref Weekend.4 ; Worked Sunday count                        ; 8.00
+Pref Weekend.5 ; Off Sunday count                           ; 32.00
+Pref Weekend.6 ; Weekend off around planned leave           ; 100%
+Pref Weekend.7 ; Total weekend around planned leave count   ; 2.00
+Pref Weekend.8 ; Off weekend around planned leave count     ; 2.00
+
+Work Period Stat.1.1 ; Work periods number                  ; 27.00
+Work Period Stat.1.2 ; Work period min length               ; 0.00
+Work Period Stat.1.3 ; Work period max length               ; 3.00
+Work Period Stat.1.4 ; Work period mean length              ; 2.26
+Work Period Stat.2.1 ; Day work periods number              ; 0.00
+Work Period Stat.2.2 ; Day work period min length           ; 0.00
+Work Period Stat.2.3 ; Day work period max length           ; 0.00
+Work Period Stat.2.4 ; Day work period mean length          ; 0.00
+Work Period Stat.3.1 ; Night work periods number            ; 27.00
+Work Period Stat.3.2 ; Night work period min length         ; 0.00
+Work Period Stat.3.3 ; Night work period max length         ; 3.00
+Work Period Stat.3.4 ; Night work period mean length        ; 2.26
+Work Period Stat.4.1 ; Night activity number                ; 61.00
+Work Period Stat.4.2 ; Day activity number                  ; 0.00
+Work Period Stat.4.3 ; Total activity number                ; 61.00
+Work Period Stat.4.4 ; Isolated activity number             ; 0.00
+
+Rest Period Stat.0 ; Periods number                         ; 33.00
+Rest Period Stat.1 ; Min length                             ; 0.00
+Rest Period Stat.2 ; Max length                             ; 21.00
+Rest Period Stat.3 ; Mean length                            ; 5.97
+Rest Period Stat.4 ; Rest number                            ; 197.00
+Rest Period Stat.5 ; Isolated rest period nb                ; 1.00
+
+Activity Stat.0  ; Activity preference score                ; 0.00
+Activity Stat.1  ; Effective work activity number           ; 60.00
+Activity Stat.2  ; Assimilated work activity number         ; 0.00
+Activity Stat.3  ; Different activity number                ; 9.00
+Activity Stat.4  ; Planned leave number                     ; 13.00
+Activity Stat.5  ; Unplanned leave number                   ; 30.00
+Activity Stat.6  ; Leave number                             ; 43.00
+Activity Stat.7  ; Activity change number                   ; 0.00
+Activity Stat.8  ; Activity 'CA' occurrence nb              ; 13.00
+Activity Stat.8  ; Activity 'CLD' occurrence nb              ; 30.00
+Activity Stat.8  ; Activity 'RH' occurrence nb              ; 197.00
+Activity Stat.8  ; Activity 'ZB' occurrence nb              ; 60.00
+
+Office Stat.0 ; Different office nb                                   ; 9.00
+Office Stat.1 ; Office 'soins' occurrence nb        ; 60.00
+Office Stat.3 ; Office change number                                  ; 0.00
+

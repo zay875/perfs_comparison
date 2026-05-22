@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PERFS_COMPARISON",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "extract_perf_logs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-extract_perf_logs-Debug-bfa135d0db74df485a10.json",
+					"name" : "extract_perf_logs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "extract_phases::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-extract_phases-Debug-9aac758a585008d83f42.json",
+					"name" : "extract_phases",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "merged_full_global_stats_all_datsets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-merged_full_global_stats_all_datsets-Debug-011ad66d21781f836dac.json",
+					"name" : "merged_full_global_stats_all_datsets",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "merged_global_stats_for_a_dataset::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-merged_global_stats_for_a_dataset-Debug-a5596aa3be5470a10668.json",
+					"name" : "merged_global_stats_for_a_dataset",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "merged_mean_agg_res_stats_all_datasets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-merged_mean_agg_res_stats_all_datasets-Debug-ecff7490afeaa5f4963d.json",
+					"name" : "merged_mean_agg_res_stats_all_datasets",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "merged_mean_agg_res_stats_for_a_dataset::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-merged_mean_agg_res_stats_for_a_dataset-Debug-71ebb3c13b90ed61385e.json",
+					"name" : "merged_mean_agg_res_stats_for_a_dataset",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ztaieb/Bureau/perfs_comparison/build",
+		"source" : "/home/ztaieb/Bureau/perfs_comparison"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

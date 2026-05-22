@@ -1,0 +1,185 @@
+metric_code,metric_name,hexaly_value,mathopt_value
+Work Time Stat.0,Total work time,110:28:41,110:28:41
+Work Time Stat.1,Effective weighted work time planned,109:33:54,109:33:54
+Work Time Stat.2,Initial available time,146:21:39,146:21:39
+Work Time Stat.3,Remaining available time,15:29:28,15:29:28
+Work Time Stat.4,Supp time planned,0:0:0,0:0:0
+Work Time Stat.5,Supp time allowed,0:0:0,0:0:0
+Work Time Stat.6,Contract time,146:21:39,146:21:39
+Work Time Stat.7,Assimilated work time,0:54:46,0:54:46
+Work Time Stat.8,Planned leave time,0:0:0,0:0:0
+Work Time Stat.9,Unplanned leave time,0:0:0,0:0:0
+Work Time Stat.10,Leave time,20:23:28,20:23:28
+Work Time Stat.11,Effective work time planned,109:33:54,109:33:54
+Work Time Stat.12,Start cumulated supp time,0:0:0,0:0:0
+Work Time Stat.13,End cumulated supp time,-15:-29:-28,-15:-29:-28
+Pref Weekend.0,In weekend count,0.61,0.61
+Pref Weekend.1,Off weekend count,1.87,1.87
+Pref Weekend.2,Cut weekend count,1.22,1.22
+Pref Weekend.3,Worked weekend count,1.83,1.83
+Pref Weekend.4,Worked Sunday count,1.22,1.22
+Pref Weekend.5,Off Sunday count,2.78,2.78
+Pref Weekend.6,Weekend off around planned leave,47%,53%
+Pref Weekend.7,Total weekend around planned leave count,0.65,0.65
+Pref Weekend.8,Off weekend around planned leave count,0.30,0.35
+Work Period Stat.1.1,Work periods number,4.74,4.80
+Work Period Stat.1.2,Work period min length,0.00,0.00
+Work Period Stat.1.3,Work period max length,0.09,0.09
+Work Period Stat.1.4,Work period mean length,2.01,2.01
+Work Period Stat.2.1,Day work periods number,2.46,2.46
+Work Period Stat.2.2,Day work period min length,0.00,0.00
+Work Period Stat.2.3,Day work period max length,0.09,0.09
+Work Period Stat.2.4,Day work period mean length,2.02,2.02
+Work Period Stat.3.1,Night work periods number,2.28,2.35
+Work Period Stat.3.2,Night work period min length,0.00,0.00
+Work Period Stat.3.3,Night work period max length,0.04,0.04
+Work Period Stat.3.4,Night work period mean length,2.00,2.00
+Work Period Stat.4.1,Night activity number,4.57,4.70
+Work Period Stat.4.2,Day activity number,4.96,4.96
+Work Period Stat.4.3,Total activity number,9.52,9.65
+Work Period Stat.4.4,Isolated activity number,0.00,0.00
+Rest Period Stat.0,Periods number,5.35,5.35
+Rest Period Stat.1,Min length,0.00,0.00
+Rest Period Stat.2,Max length,0.28,0.24
+Rest Period Stat.3,Mean length,3.22,3.22
+Rest Period Stat.4,Rest number,17.24,17.24
+Rest Period Stat.5,Isolated rest period nb,0.48,0.59
+Activity Stat.0,Activity preference score,0.00,0.00
+Activity Stat.1,Effective work activity number,9.13,9.13
+Activity Stat.2,Assimilated work activity number,0.13,0.13
+Activity Stat.3,Different activity number,1.67,1.50
+Activity Stat.4,Planned leave number,2.00,2.00
+Activity Stat.5,Unplanned leave number,1.50,1.50
+Activity Stat.6,Leave number,3.50,3.50
+Activity Stat.7,Activity change number,0.04,0.00
+Activity Stat.8,Activity 'CA' occurrence nb,2.00,2.00
+Activity Stat.8,Activity 'CLD' occurrence nb,1.50,1.50
+Activity Stat.8,Activity 'RH' occurrence nb,17.24,17.24
+Activity Stat.8,Activity 'TSY' occurrence nb,0.13,0.13
+Activity Stat.8,Activity 'ZA' occurrence nb,4.57,4.57
+Activity Stat.8,Activity 'ZB' occurrence nb,4.57,4.57
+Office Stat.0,Different office nb,0.98,0.98
+Office Stat.1,Office 'soins' occurrence nb,9.13,9.13
+Office Stat.3,Office change number,0.00,0.00
+Work Time Stat.0,Total work time,119:29:8,108:30:51
+Work Time Stat.1,Effective weighted work time planned,118:17:8,107:18:51
+Work Time Stat.2,Initial available time,146:9:36,146:9:36
+Work Time Stat.3,Remaining available time,7:16:27,18:14:44
+Work Time Stat.4,Supp time planned,0:0:0,0:0:0
+Work Time Stat.5,Supp time allowed,0:0:0,0:0:0
+Work Time Stat.6,Contract time,146:9:36,146:9:36
+Work Time Stat.7,Assimilated work time,1:12:0,1:12:0
+Work Time Stat.8,Planned leave time,0:0:0,0:0:0
+Work Time Stat.9,Unplanned leave time,0:0:0,0:0:0
+Work Time Stat.10,Leave time,19:24:0,19:24:0
+Work Time Stat.11,Effective work time planned,118:17:8,107:18:51
+Work Time Stat.12,Start cumulated supp time,0:0:0,0:0:0
+Work Time Stat.13,End cumulated supp time,-7:-16:-27,-18:-14:-44
+Pref Weekend.0,In weekend count,0.57,0.57
+Pref Weekend.1,Off weekend count,1.77,1.89
+Pref Weekend.2,Cut weekend count,1.40,1.31
+Pref Weekend.3,Worked weekend count,1.97,1.89
+Pref Weekend.4,Worked Sunday count,1.31,1.23
+Pref Weekend.5,Off Sunday count,2.69,2.77
+Pref Weekend.6,Weekend off around planned leave,54%,58%
+Pref Weekend.7,Total weekend around planned leave count,0.69,0.69
+Pref Weekend.8,Off weekend around planned leave count,0.37,0.40
+Work Period Stat.1.1,Work periods number,5.14,4.71
+Work Period Stat.1.2,Work period min length,0.00,0.00
+Work Period Stat.1.3,Work period max length,0.11,0.11
+Work Period Stat.1.4,Work period mean length,2.01,2.01
+Work Period Stat.2.1,Day work periods number,3.23,3.23
+Work Period Stat.2.2,Day work period min length,0.00,0.00
+Work Period Stat.2.3,Day work period max length,0.11,0.11
+Work Period Stat.2.4,Day work period mean length,2.02,2.02
+Work Period Stat.3.1,Night work periods number,1.91,1.49
+Work Period Stat.3.2,Night work period min length,0.00,0.00
+Work Period Stat.3.3,Night work period max length,0.06,0.06
+Work Period Stat.3.4,Night work period mean length,2.00,2.00
+Work Period Stat.4.1,Night activity number,3.83,2.97
+Work Period Stat.4.2,Day activity number,6.51,6.51
+Work Period Stat.4.3,Total activity number,10.34,9.49
+Work Period Stat.4.4,Isolated activity number,0.00,0.00
+Rest Period Stat.0,Periods number,5.66,5.31
+Rest Period Stat.1,Min length,0.00,0.00
+Rest Period Stat.2,Max length,0.20,0.31
+Rest Period Stat.3,Mean length,2.94,3.31
+Rest Period Stat.4,Rest number,16.66,17.57
+Rest Period Stat.5,Isolated rest period nb,0.57,0.43
+Activity Stat.0,Activity preference score,0.00,0.00
+Activity Stat.1,Effective work activity number,9.86,8.94
+Activity Stat.2,Assimilated work activity number,0.17,0.17
+Activity Stat.3,Different activity number,1.89,1.66
+Activity Stat.4,Planned leave number,2.09,2.09
+Activity Stat.5,Unplanned leave number,1.23,1.23
+Activity Stat.6,Leave number,3.31,3.31
+Activity Stat.7,Activity change number,0.06,0.00
+Activity Stat.8,Activity 'CA' occurrence nb,2.09,2.09
+Activity Stat.8,Activity 'CLD' occurrence nb,1.23,1.23
+Activity Stat.8,Activity 'RH' occurrence nb,16.66,17.57
+Activity Stat.8,Activity 'TSY' occurrence nb,0.17,0.17
+Activity Stat.8,Activity 'ZA' occurrence nb,6.00,6.00
+Activity Stat.8,Activity 'ZB' occurrence nb,3.86,2.94
+Office Stat.0,Different office nb,0.97,0.97
+Office Stat.1,Office 'soins' occurrence nb,9.86,8.94
+Office Stat.3,Office change number,0.00,0.00
+Work Time Stat.0,Total work time,81:49:5,116:43:38
+Work Time Stat.1,Effective weighted work time planned,81:49:5,116:43:38
+Work Time Stat.2,Initial available time,147:0:0,147:0:0
+Work Time Stat.3,Remaining available time,41:38:10,6:43:38
+Work Time Stat.4,Supp time planned,0:0:0,0:0:0
+Work Time Stat.5,Supp time allowed,0:0:0,0:0:0
+Work Time Stat.6,Contract time,147:0:0,147:0:0
+Work Time Stat.7,Assimilated work time,0:0:0,0:0:0
+Work Time Stat.8,Planned leave time,0:0:0,0:0:0
+Work Time Stat.9,Unplanned leave time,0:0:0,0:0:0
+Work Time Stat.10,Leave time,23:32:43,23:32:43
+Work Time Stat.11,Effective work time planned,81:49:5,116:43:38
+Work Time Stat.12,Start cumulated supp time,0:0:0,0:0:0
+Work Time Stat.13,End cumulated supp time,-41:-38:-10,-6:-43:-38
+Pref Weekend.0,In weekend count,0.73,0.73
+Pref Weekend.1,Off weekend count,2.18,1.82
+Pref Weekend.2,Cut weekend count,0.64,0.91
+Pref Weekend.3,Worked weekend count,1.36,1.64
+Pref Weekend.4,Worked Sunday count,0.91,1.18
+Pref Weekend.5,Off Sunday count,3.09,2.82
+Pref Weekend.6,Weekend off around planned leave,17%,33%
+Pref Weekend.7,Total weekend around planned leave count,0.55,0.55
+Pref Weekend.8,Off weekend around planned leave count,0.09,0.18
+Work Period Stat.1.1,Work periods number,3.45,5.09
+Work Period Stat.1.2,Work period min length,0.00,0.00
+Work Period Stat.1.3,Work period max length,0.18,0.18
+Work Period Stat.1.4,Work period mean length,2.00,2.00
+Work Period Stat.2.1,Day work periods number,0.00,0.00
+Work Period Stat.2.2,Day work period min length,0.00,0.00
+Work Period Stat.2.3,Day work period max length,0.00,0.00
+Work Period Stat.2.4,Day work period mean length,0.00,0.00
+Work Period Stat.3.1,Night work periods number,3.45,5.09
+Work Period Stat.3.2,Night work period min length,0.00,0.00
+Work Period Stat.3.3,Night work period max length,0.18,0.18
+Work Period Stat.3.4,Night work period mean length,2.00,2.00
+Work Period Stat.4.1,Night activity number,6.91,10.18
+Work Period Stat.4.2,Day activity number,0.00,0.00
+Work Period Stat.4.3,Total activity number,6.91,10.18
+Work Period Stat.4.4,Isolated activity number,0.00,0.00
+Rest Period Stat.0,Periods number,4.36,5.45
+Rest Period Stat.1,Min length,0.00,0.00
+Rest Period Stat.2,Max length,1.18,0.73
+Rest Period Stat.3,Mean length,4.38,2.97
+Rest Period Stat.4,Rest number,19.09,16.18
+Rest Period Stat.5,Isolated rest period nb,0.18,1.09
+Activity Stat.0,Activity preference score,0.00,0.00
+Activity Stat.1,Effective work activity number,6.82,9.73
+Activity Stat.2,Assimilated work activity number,0.00,0.00
+Activity Stat.3,Different activity number,1.00,1.00
+Activity Stat.4,Planned leave number,1.73,1.73
+Activity Stat.5,Unplanned leave number,2.36,2.36
+Activity Stat.6,Leave number,4.09,4.09
+Activity Stat.7,Activity change number,0.00,0.00
+Activity Stat.8,Activity 'CA' occurrence nb,1.73,1.73
+Activity Stat.8,Activity 'CLD' occurrence nb,2.36,2.36
+Activity Stat.8,Activity 'RH' occurrence nb,19.09,16.18
+Activity Stat.8,Activity 'ZB' occurrence nb,6.82,9.73
+Office Stat.0,Different office nb,1.00,1.00
+Office Stat.1,Office 'soins' occurrence nb,6.82,9.73
+Office Stat.3,Office change number,0.00,0.00

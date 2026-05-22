@@ -1,0 +1,10 @@
+metric_code,metric_name,hexaly_value,mathopt_value
+G0,Need objective,3400.00,3400.00
+G1,Need time,1580:0:0,1580:0:0
+G2,Undercovered time,134:0:0,128:0:0
+G3,Overcovered time,0:0:0,0:0:0
+G4,Undercovered metavacations number,14,16
+G5,Overcovered metavacations number,0,0
+G6,Metavacations number,134,134
+G7,Max undercoverage,3,2
+G8,Total undercoverage,17,17
