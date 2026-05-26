@@ -1,0 +1,11 @@
+Global statistics
+G0   ; Need objective                                         ; 2800.00
+G1   ; Need time                                              ; 1580:0:0
+G2   ; Undercovered time                                      ; 107:0:0
+G3   ; Overcovered time                                       ; 0:0:0
+G4   ; Undercovered metavacations number                      ; 13
+G5   ; Overcovered metavacations number                       ; 0
+G6   ; Metavacations number                                   ; 134
+G7   ; Max undercoverage                                      ; 2
+G8   ; Total undercoverage                                    ; 14
+

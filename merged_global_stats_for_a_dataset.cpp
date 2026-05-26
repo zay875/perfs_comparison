@@ -106,7 +106,7 @@ void mergeGlobalStatsCsv(const std::string &hexalyFile,
 int main(int argc, char *argv[]) {
   if (argc < 3) {
     std::cerr << "Usage: " << argv[0]
-              << " <stat_mean_hexaly_csv1> <stat_mean_mathopt_csv2> [output_csv]"
+              << " <stat_full_global_hexaly_csv1> <stat_full_global_mathopt_csv2> [output_csv]"
               << std::endl;
     return 1;
   }
