@@ -9,7 +9,8 @@ set output "comparison_plot_solve_time.png"
 
 set title "MathOpt vs Hexaly solve time Comparison"
 set xlabel "Dataset"
-set ylabel "Solve time"
+set ylabel "Solve time MathOpt"
+set ylabel "Solve time Hexaly"
 set ydata time
 set timefmt "%H:%M:%S"
 set format y "%H:%M:%S"
@@ -20,6 +21,8 @@ set key outside
 # uncomment the next line if needed
 # set logscale y
 
+set xrange [1:*]
+
 plot \
-    "../Data_logs/run_all_datasets_mathopt.log.dat" using 0:1 with linespoints linewidth 1 pointtype 7 lc rgb "#00AA00"title "MathOpt", \
-    "../Data_logs/run_all_datasets_hexaly.log.dat" using 0:1 with linespoints linewidth 1 pointtype 5 lc rgb "#8A2BE2"title "Hexaly"
+    "../Data_logs/run_all_datasets_mathopt.log.dat" using ($0+1):1 with linespoints linewidth 1 pointtype 7 lc rgb "#00AA00"title "MathOpt", \
+    "../Data_logs/run_all_datasets_hexaly.log.dat" using ($0+1):1 with linespoints linewidth 1 pointtype 5 lc rgb "#8A2BE2"title "Hexaly"
